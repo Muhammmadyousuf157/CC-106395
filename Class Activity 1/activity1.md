@@ -14,7 +14,7 @@
 
 ## DFA from NFA
 
-![](DFA from NFA.jpeg)
+![](DFAfromNFA.jpeg)
 
 ## CODE
 
