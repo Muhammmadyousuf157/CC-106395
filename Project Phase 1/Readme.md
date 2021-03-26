@@ -1,5 +1,7 @@
-#CC Spring 2021: Project Phase 1#
-###PROJECT MEMBERS###
+#CC Spring 2021: Project Phase 1
+
+#PROJECT MEMBERS
+
 StdID | Name
 ------------ | -------------
 **63239** | **Muhammad Yousuf** 
@@ -7,7 +9,7 @@ StdID | Name
 
 
 ## Language Selected ##
-Mini-C
+**Mini-C**
 
 ## Example Constructs (If/While/loop/Datatypes) ##
 ```
