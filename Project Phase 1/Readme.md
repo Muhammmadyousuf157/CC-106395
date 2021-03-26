@@ -1,6 +1,6 @@
-#CC Spring 2021: Project Phase 1
+## CC Spring 2021: Project Phase 1
 
-#PROJECT MEMBERS
+## PROJECT MEMBERS
 
 StdID | Name
 ------------ | -------------
@@ -73,8 +73,8 @@ while (count < desiredCount) {
 
 ```
 
-##Lexical Specification##
-#Statement#
+## Lexical Specification
+### Statement
 ```
 program = statement*
 
@@ -93,7 +93,7 @@ statement = block
 block = '{' statement* '}'
 
 ```
-#Expressions#
+### Expressions
 ```
 expression = literal
  | ID
@@ -123,7 +123,7 @@ while = 'while' parExpression statement
 assignmentOp = '='
 
 ```
-#Types#
+### Types
 ```
 statement = block
  | SEMI
@@ -133,7 +133,7 @@ statement = block
  | 'string'
 
 ```
-#Literals#
+### Literals
 ```
 literal = IntegerLiteral
  | FloatingPointLiteral
@@ -146,41 +146,41 @@ StringLiteral = '"' (CHAR | '\"')* '"'
 BooleanLiteral = 'true' | 'false'
 
 ```
-#Semi#
+### Semi
 ```
 SEMI = ';'
 
 ```
-#ID#
+### ID
 ```
 ID = (LETTER | '_') (LETTER | DIGIT | '_')*
 
 ```
-#Digit#
+### Digit
 ```
 DIGIT = '0' | ... | '9'
 
 ```
 
-#Letter#
+### Letter
 ```
 LETTER = 'a' | ... | 'z' | 'A' | ... | 'Z'
 
 ```
 
-#Char#
+### Char
 ```
 CHAR = <unicode character, as in Java>
 
 ```
 
-#WhiteSpace Characters#
+### WhiteSpace Characters
 ```
 Whitespace characters (' ', '\t', '\r', '\n') are skipped outside of tokens.
 
 ```
 
-## Language Context Free Grammar (CFG) ##
+## Language Context Free Grammar (CFG) 
 Grammar description using EBNF.
  'x' — terminal symbol.
  x? – zero or one occurrences of x.
