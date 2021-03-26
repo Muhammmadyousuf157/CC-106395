@@ -183,14 +183,14 @@ Whitespace characters (' ', '\t', '\r', '\n') are skipped outside of tokens.
 ## Language Context Free Grammar (CFG) 
 Grammar description using EBNF.
 
-•  'x' — terminal symbol.
+•    'x' — terminal symbol.
 
-•  x? – zero or one occurrences of x.
+•    x? – zero or one occurrences of x.
 
-•  x* – zero or more occurrences of x.
+•    x* – zero or more occurrences of x.
 
-•  x+ – one or more occurrences of x.
+•    x+ – one or more occurrences of x.
 
-•  x | y – alternative (x or y).
+•    x | y – alternative (x or y).
 
-•  () – group, for example (x | y) z (x y)?
+•    () – group, for example (x | y) z (x y)?
