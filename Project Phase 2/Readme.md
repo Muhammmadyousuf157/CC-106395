@@ -2,7 +2,7 @@
 # Flex File
 
 
-## CODE -- FLEX FIL.l
+## CODE -- FLEX FILE.l
 ```
 %{
 #define id 1
