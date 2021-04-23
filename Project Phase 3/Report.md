@@ -1,6 +1,6 @@
-#CC 106395: MINI - C#
+#CC 106395: MINI - C
 
-###PROJECT MEMBERS###
+### PROJECT MEMBERS
 StdID | Name
 ------------ | -------------
 **63239** | **Muhammad Yousuf** <!--this is the group leader in bold-->
@@ -31,7 +31,7 @@ while (count < desiredCount) {
 }
 
 ```
-###Lexical Specification
+### Lexical Specification
 ### Statement
 ```
 program = statement*
@@ -138,7 +138,7 @@ Whitespace characters (' ', '\t', '\r', '\n') are skipped outside of tokens.
 
 ```
 
-###Grammar###
+### Grammar
 Grammar description using EBNF.
 
 •        'x' — terminal symbol.
