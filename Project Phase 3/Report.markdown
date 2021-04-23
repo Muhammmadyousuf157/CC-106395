@@ -140,6 +140,7 @@ Whitespace characters (' ', '\t', '\r', '\n') are skipped outside of tokens.
 
 ### Grammar
 Grammar description using EBNF.
+```
 
 •        'x' — terminal symbol.
 
@@ -152,6 +153,7 @@ Grammar description using EBNF.
 •        x | y – alternative (x or y).
 
 •        () – group, for example (x | y) z (x y)?
+```
 
 ## Problems Faced
 We face  two main problems in this project, first one is how to create a felx file and the second one is how to create a yacc file.
