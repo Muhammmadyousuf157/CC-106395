@@ -8,7 +8,7 @@ StdID | Name
 <!-- Replace name and student ids with acutally group member names and ids-->
 ## Project Description ##
 In this project we make a parser for Mini - C language that parse the input code and let the user know of any errors, first we bult a lexical analyzer by using flex which output the token stream and then we use YACC to design a parser.
-##Sample Language Used ##
+## Sample Language Used 
 The language which we choose is Mini - C
 ```
 while (count < desiredCount) {
