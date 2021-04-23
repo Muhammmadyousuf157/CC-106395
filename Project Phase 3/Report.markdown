@@ -144,7 +144,7 @@ Grammar description using EBNF.
 
 •        'x' — terminal symbol.
 
-•	       x? – zero or one occurrences of x.
+•	    x? – zero or one occurrences of x.
 
 •        x* – zero or more occurrences of x.
 
@@ -159,13 +159,13 @@ Grammar description using EBNF.
 We face  two main problems in this project, first one is how to create a felx file and the second one is how to create a yacc file.
 
 ### Problem 1: How to create a flex file
-The first problem we faced is how to create a flex file, we solved this problem because our course instructor show us an example by creating a flex file, we learn to run it on ubuntu on from internet.
+The first problem we faced is how to create a flex file, we solved this problem because our course instructor show us an example by creating a flex file, we learn to run it on ubuntu from internet.
 
 ### Problem 2: 
 The second problem we faced is how to create a yacc file, we solved this problem by watching tutorials of yacc file on Youtube.
 
 
 ## References
-- Github tutorial for beginners [links](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners), 
-- Linux Command Line Tutorial [links](https://ubuntu.com/tutorials/command-line-for-beginners),
+- Github tutorial for beginners [links](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- Linux Command Line Tutorial [links](https://ubuntu.com/tutorials/command-line-for-beginners)
 
