@@ -1,4 +1,4 @@
-#CC 106395: MINI - C
+# CC 106395: MINI - C
 
 ### PROJECT MEMBERS
 StdID | Name
