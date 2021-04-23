@@ -31,7 +31,7 @@ while (count < desiredCount) {
 }
 
 ```
-### Lexical Specification
+## Lexical Specification
 ### Statement
 ```
 program = statement*
