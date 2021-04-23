@@ -159,7 +159,7 @@ We face  two main problems in this project, first one is how to create a felx fi
 ### Problem 1: How to create a flex file
 The first problem we faced is how to create a flex file, we solved this problem because our course instructor show us an example how to create a flex file.
 
-###Problem 2: 
+### Problem 2: 
 The second problem we faced is how to create a yacc file, we solved this problem by watching tutorials of yacc file on Youtube.
 
 
